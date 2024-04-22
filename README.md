@@ -1,2 +1,2 @@
-https://airbnb-21bit219.vercel.app/
+air-bnb-clone-theta-two.vercel.app
 # AirBnB-clone
